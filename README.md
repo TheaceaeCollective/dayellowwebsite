@@ -15,3 +15,8 @@ Huge thanks to these amazing people on github for their open-source projects tha
 
  - [XP.css | An extension of 98.css by botoxparty](https://botoxparty.github.io/XP.css)
 
+## Thanks to these amazing people!!
+Special Thanks to these amazing people for making this project possible!!!!
+
+- J6papertek
+- more to be listed hopefully...
