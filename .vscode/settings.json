@@ -1,0 +1,4 @@
+{
+    "deepscan.ignoreConfirmWarning": true,
+    "prettier.printWidth": 140
+}
