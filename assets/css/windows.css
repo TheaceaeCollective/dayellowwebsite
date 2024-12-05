@@ -16,7 +16,6 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-}
-background-image {
-  url(assets\images\35235288-ll-9qzhki9w-v4.webp);
+
+  background-image: url(/assets/images/skibidi.webp);
 }
